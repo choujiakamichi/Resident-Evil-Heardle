@@ -589,7 +589,7 @@ let _metadata = createMetadata({
 "Crash Landing - Resident Evil: Survivor": [2000, "Resident Evil Survivor"],
 "Creeping Death - Resident Evil: Survivor": [2000, "Resident Evil Survivor"],
 "End Credits - Resident Evil: Survivor": [2000, "Resident Evil Survivor"],
-Entering the Laboratory - Resident Evil: Survivor": [2000, "Resident Evil Survivor"],
+"Entering the Laboratory - Resident Evil: Survivor": [2000, "Resident Evil Survivor"],
 "Finally Escaped - Resident Evil: Survivor": [2000, "Resident Evil Survivor"],
 "Following the Kids - Resident Evil: Survivor": [2000, "Resident Evil Survivor"],
 "Godforsaken Place - Resident Evil: Survivor": [2000, "Resident Evil Survivor"],
