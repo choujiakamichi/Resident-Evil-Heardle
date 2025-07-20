@@ -594,7 +594,7 @@ var app = (function () {
 "Crash Landing - Resident Evil: Survivor",
 "Creeping Death - Resident Evil: Survivor",
 "End Credits - Resident Evil: Survivor",
-Entering the Laboratory - Resident Evil: Survivor",
+"Entering the Laboratory - Resident Evil: Survivor",
 "Finally Escaped - Resident Evil: Survivor",
 "Following the Kids - Resident Evil: Survivor",
 "Godforsaken Place - Resident Evil: Survivor",
