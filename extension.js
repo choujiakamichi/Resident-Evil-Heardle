@@ -613,6 +613,18 @@ let _metadata = createMetadata({
 "Wanna Play - Resident Evil: Survivor": [2000, "Resident Evil Survivor"],
 "Welcome to Paradise - Resident Evil: Survivor": [2000, "Resident Evil Survivor"],
 "Where the Tyrant Sleeps - Resident Evil: Survivor": [2000, "Resident Evil Survivor"],
+      "1st Battle With Morphius - Resident Evil Dead Aim": [2003, "Resident Evil Dead Aim"],
+"2nd Battle With Morphius - Resident Evil Dead Aim": [2003, "Resident Evil Dead Aim"],
+"Battle Fat Tyrant - Resident Evil Dead Aim": [2003, "Resident Evil Dead Aim"],
+"Battle Tyrant - Resident Evil Dead Aim": [2003, "Resident Evil Dead Aim"],
+"Escape Now - Resident Evil Dead Aim": [2003, "Resident Evil Dead Aim"],
+"Introduction - Resident Evil Dead Aim": [2003, "Resident Evil Dead Aim"],
+"Last Battle With Morphius - Resident Evil Dead Aim": [2003, "Resident Evil Dead Aim"],
+"Save Room - Resident Evil Dead Aim": [2003, "Resident Evil Dead Aim"],
+"Scream in the Darkness - Resident Evil Dead Aim": [2003, "Resident Evil Dead Aim"],
+"To the Missile Silo - Resident Evil Dead Aim": [2003, "Resident Evil Dead Aim"],
+"Rize-Gun Shot(Credits) - Resident Evil Dead Aim": [2003, "Resident Evil Dead Aim"],
+
 
   
 
