@@ -5734,7 +5734,7 @@ var app = (function () {
               : (t += "⬜️");
           let o = e + "\n\n" + t + "\n\n";
           // +
-          ("https://real-resident-evil-heardle.glitch.me/");
+          ("https://choujiakamichi.github.io/Resident-Evil-Heardle/");
           if (
             !navigator.share ||
             !/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
