@@ -1,7 +1,7 @@
 var app = (function () {
   var artist = "Resident Evil";
   var twitter = "choujiakamichi";
-  var startDate = "2024-12-11";
+  var startDate = "2025-11-20";
   const Cn = ue([
       "The City Without Hope - Resident Evil 3 Nemesis",
       "Escape to Ectasy - Resident Evil 3 Nemesis",
