@@ -645,7 +645,7 @@ var app = (function () {
 "Captured by Plant 42 - Resident Evil Director’s Cut",
 "Ceiling Trap - Resident Evil Director’s Cut",
 "Chris and Jill Reunited - Resident Evil Director’s Cut",
-"Closeup of the Tyrant - Resident Evil Director’s Cut"
+"Closeup of the Tyrant - Resident Evil Director’s Cut",
 "Completed Picture Puzzle - Resident Evil Director’s Cut",
 "Disappearance - Resident Evil Director’s Cut",
 "Entrance to the Laboratory - Resident Evil Director’s Cut",
