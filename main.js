@@ -629,7 +629,7 @@ var app = (function () {
 "Scream in the Darkness - Resident Evil Dead Aim",
 "To the Missile Silo - Resident Evil Dead Aim",
 "Rize-Gun Shot(Credits) - Resident Evil Dead Aim",
-"Battle Theme - Resident Evil RE: Verse"
+"Battle Theme - Resident Evil RE: Verse",
 "Bioweapon Battle - Resident Evil RE: Verse",
 "Final Results - Resident Evil RE: Verse",
 "Main Menu - Resident Evil RE: Verse",
