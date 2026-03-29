@@ -783,7 +783,7 @@ var app = (function () {
 "The March to Survive - Resident Evil 2 2019",
 "Grim Struggle - Resident Evil 2 2019",
 "In Search of Lost Time - Resident Evil 2 2019",
-    "A New Threat Is Born - Resident Evil 3 2020"
+    "A New Threat Is Born - Resident Evil 3 2020",
 "Escape - Resident Evil 3 2020",
 "The City of Chaos - Resident Evil 3 2020",
 "Coming to Kill You - Resident Evil 3 2020",
