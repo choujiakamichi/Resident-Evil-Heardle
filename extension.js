@@ -808,7 +808,7 @@ let _metadata = createMetadata({
 "A Day I’ll Never Forget - Resident Evil 4 2023": [2023, "Resident Evil 4"],
 "The Drive - Resident Evil 4 2023": [2023, "Resident Evil 4"],
 "Smell of Death - Resident Evil 4 2023": [2023, "Resident Evil 4"],
-"Noise of Scars-Ganado(Villagers) - Resident Evil 4 2023: [2023, "Resident Evil 4"],
+"Noise of Scars-Ganado(Villagers) - Resident Evil 4 2023": [2023, "Resident Evil 4"],
 "Save Theme - Resident Evil 4 2023": [2023, "Resident Evil 4"],
 "A Cold Wind - Resident Evil 4 2023": [2023, "Resident Evil 4"],
 "The Chainsaw - Resident Evil 4 2023": [2023, "Resident Evil 4"],
