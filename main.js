@@ -813,7 +813,7 @@ var app = (function () {
 "A Day I’ll Never Forget - Resident Evil 4 2023",
 "The Drive - Resident Evil 4 2023",
 "Smell of Death - Resident Evil 4 2023",
-"Noise of Scars-Ganado(Villagers) - Resident Evil 4 2023"
+"Noise of Scars-Ganado(Villagers) - Resident Evil 4 2023",
 "Save Theme - Resident Evil 4 2023",
 "A Cold Wind - Resident Evil 4 2023",
 "The Chainsaw - Resident Evil 4 2023",
