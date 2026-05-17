@@ -7,27 +7,21 @@
 html {
     -moz-tab-size: 4;
     -o-tab-size: 4;
-    tab-size: 4
-}
-html {
+    tab-size: 4;
     line-height: 1.15;
     -webkit-text-size-adjust: 100%
 }
+
 body {
-    margin: 0
+    font-family: testfont;
+    margin: 0;
 }
-body {
-    font-family: system-ui,
-        -apple-system,
-        /* Firefox supports this but not yet `system-ui` */
-        'Segoe UI',
-        Roboto,
-        Helvetica,
-        Arial,
-        sans-serif,
-        'Apple Color Emoji',
-        'Segoe UI Emoji'
+
+@font-face {
+    font-family: testfont;
+    src: url("Fonts/font.otf") format("opentype");
 }
+
 hr {
     height: 0;
     color: inherit
@@ -38,7 +32,7 @@ abbr[title] {
 }
 b,
 strong {
-    font-weight: bolder
+    font-weight: bold
 }
 code,
 kbd,
@@ -50,14 +44,14 @@ pre {
         'Liberation Mono',
         Menlo,
         monospace;
-    font-size: 1em
+    font-size: 1rem
 }
 small {
-    font-size: 80%
+    font-size: 1.25rem
 }
 sub,
 sup {
-    font-size: 75%;
+    font-size: 2.125rem;
     line-height: 0;
     position: relative;
     vertical-align: baseline
@@ -78,7 +72,7 @@ optgroup,
 select,
 textarea {
     font-family: inherit;
-    font-size: 100%;
+    font-size: 1.5rem;
     line-height: 1.15;
     margin: 0
 }
@@ -148,12 +142,13 @@ ul {
     padding: 0
 }
 html {
-    font-family: Noto Sans, ui-sans-serif, system-ui;
-    line-height: 1.5
+    font-family: testfont;
+    line-height: 1.2;
 }
 body {
     font-family: inherit;
-    line-height: inherit
+    line-height: 1.1rem;
+    font-size: 1.4rem
 }
 *,
 ::before,
@@ -200,7 +195,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-size: inherit;
+    font-size: 1.5rem;
     font-weight: inherit
 }
 a {
@@ -220,7 +215,7 @@ pre,
 code,
 kbd,
 samp {
-    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace
+    font-family: testfont;
 }
 img,
 svg,
@@ -586,6 +581,9 @@ video {
 .bg-custom-negative {
     background-color: var(--color-negative)
 }
+.bg-custom-yellow {
+    background-color: var(--color-yellow)
+}
 .bg-custom-fg {
     background-color: var(--color-fg)
 }
@@ -668,33 +666,33 @@ video {
     text-align: center
 }
 .font-serif {
-    font-family: Noto Serif Display, ui-serif, Georgia
+    font-family: testfont;
 }
 .text-xs {
-    font-size: 0.75rem;
+    font-size: 1.2rem;
     line-height: 1rem
 }
 .text-sm {
-    font-size: 0.875rem;
-    line-height: 1.25rem
+    font-size: 1.75rem;
+    line-height: 1.3rem
 }
 .text-lg {
-    font-size: 1.125rem;
+    font-size: 2.125rem;
     line-height: 1.75rem
 }
 .text-xl {
-    font-size: 1.25rem;
+    font-size: 2.25rem;
     line-height: 1.75rem
 }
 .text-3xl {
-    font-size: 1.875rem;
-    line-height: 2.25rem
+    font-size: 3.5rem;
+    line-height: 2rem
 }
 .font-semibold {
-    font-weight: 600
+    font-weight: 10
 }
 .font-bold {
-    font-weight: 700
+    font-weight: 10
 }
 .uppercase {
     text-transform: uppercase
@@ -714,6 +712,9 @@ video {
 }
 .text-custom-negative {
     color: var(--color-negative)
+}
+.text-custom-yellow {
+    color: var(--color-yellow)
 }
 .text-custom-fg {
     color: var(--color-fg)
@@ -824,6 +825,7 @@ a:active {
 :root {
     --color-positive: #1d7e05;
     --color-negative: #ff0000;
+    --color-yellow: #ffe100;
     --color-fg: #ffffff;
     --color-mg: #444;
     --color-bg: #121212;
@@ -841,18 +843,18 @@ a:active {
     top: auto !important;
     bottom: 100% !important;
     z-index: 100;
-    font-size: 0.9em;
+    font-size: 1.20rem;
     position: absolute;
     background: var(--color-bg);
     width: 100%;
     border: 1px solid var(--color-mg)
 }
 .autoComplete_wrapper > ul li {
-    padding: 0.5rem 0.75rem;
+    padding: 0.4rem 0.65rem;
     width: 100%;
     border-bottom: 1px solid var(--color-mg);
     letter-spacing: 1px;
-    line-height: 1.3
+    line-height: 0.75
 }
 .autoComplete_wrapper mark {
     background: var(--color-mg) !important;
@@ -881,7 +883,7 @@ input[type="textfield"] {
     z-index: 1000
 }
 button.svelte-1r54uzk {
-    color: #fff,
+    color: #ffffff,
 }
 @-webkit-keyframes svelte-15swa4o-gg-bar {
     10% {
@@ -987,11 +989,11 @@ a.svelte-1d3p4dy.svelte-1d3p4dy {
     text-decoration: none
 }
 .kofitext.svelte-1d3p4dy img.kofiimg.svelte-1d3p4dy {
-    height: 20px !important;
-    width: 28px !important;
+    height: 30px !important;
+    width: 30px !important;
     display: initial;
-    -webkit-animation: svelte-1d3p4dy-kofi-wiggle 1.5s infinite;
-    animation: svelte-1d3p4dy-kofi-wiggle 1.5s infinite
+    -webkit-animation: svelte-1d3p4dy-kofi-wiggle 2s infinite;
+    animation: svelte-1d3p4dy-kofi-wiggle 2s infinite
 }
 @-webkit-keyframes svelte-1d3p4dy-kofi-wiggle {
     0% {
